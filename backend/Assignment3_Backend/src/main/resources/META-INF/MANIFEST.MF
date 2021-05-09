@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.assignment1.DS2020_30441_Bozdog_Ioana_Assignment_3.App
+ lication
+
